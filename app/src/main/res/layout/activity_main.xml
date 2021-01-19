@@ -10,9 +10,19 @@
 
     <ImageView
         android:id="@+id/iv"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:src="@drawable/img"/>
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/i100"/>
+
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv3"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:layout_width="150dp"-->
+<!--        android:layout_height="150dp"-->
+<!--        android:src="@drawable/im"/>-->
+
+
 
     <Button
         android:layout_width="wrap_content"
